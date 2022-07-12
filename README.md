@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TAEEALFU　私は東京の学生　よろしくお願いいたします。
-- 👀 I’m interested in 僕の欲しいは
+- 👀 I’m interested in 僕の欲しいはお金です（(笑)）
 - 🌱 I’m currently learning JAVA　
 - 💞️ I’m looking to collaborate on ...まだない
 - 📫 How to reach me ...Twitterたかぎちゅうわのromaji
