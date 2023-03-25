@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @TAEEALFU　私は東京の学生　よろしくお願いいたします。
-- 👀 I’m interested in 僕の欲しいはお金です（(笑)）
-- 🌱 I’m currently learning JAVA　
-- 💞️ I’m looking to collaborate on ...まだない
-- 📫 How to reach me ...Twitterたかぎちゅうわのromaji
+- 👋 Здравствуйте! Я разработчик архитектуры с опытом работы в области программной инженерии. 
+- Я занимаюсь проектированием и разработкой высокоэффективных и масштабируемых приложений. 
+- Моя работа включает в себя создание архитектурных решений, написание и отладку кода, тестирование и оптимизацию приложений. 
+- Я также уверен в использовании различных инструментов и технологий, таких как Java, Python, SQL, NoSQL, Docker и Kubernetes.
+
 
 <!---
 TAEEALFU/TAEEALFU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
